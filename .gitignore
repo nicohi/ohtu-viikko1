@@ -3,3 +3,5 @@
 gradle.properties
 .gradle/
 .nb-gradle/
+/RiippuvuuksienInjektointi1/build/
+/NhlStatistics1/build/
